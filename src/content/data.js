@@ -1,0 +1,65 @@
+export const data = [
+  {
+    "name": "Photo 1",
+    "url": "/images/photo_1.jpg",
+    "description": "Kerala Vacation",
+    "date": "2020-01-01",
+    "type": "image/jpg",
+  },
+  {
+    "name": "Photo 2",
+    "url": "/images/photo_2.jpg",
+    "description": "Munnar A place in kerala",
+    "date": "2020-01-02",
+    "type": "image/jpg",
+  },
+  {
+    "name": "Photo 3",
+    "url": "/images/photo_3.jpg",
+    "description": "View from boat house",
+    "date": "2020-01-03",
+    "type": "image/jpg",
+  },
+  {
+    "name": "Photo 4",
+    "url": "/images/photo_4.jpg",
+    "description": "Allepy Boat House",
+    "date": "2020-01-04",
+    "type": "image/jpg",
+  },
+  {
+    "name": "Photo 5",
+    "url": "/images/photo_5.jpg",
+    "description": "Yaswanth",
+    "date": "2020-01-05",
+    "type": "image/jpg",
+  },
+  {
+    "name": "Photo 6",
+    "url": "/images/photo_6.jpg",
+    "description": "Camping in Kerala",
+    "date": "2020-01-06",
+    "type": "image/jpg",
+  },
+  {
+    "name": "Photo 7",
+    "url": "/images/photo_7.jpg",
+    "description": "Stackup",
+    "date": "2020-01-07",
+    "type": "image/jpg",
+  },
+  {
+    "name": "Photo 8",
+    "url": "/images/photo_8.jpg",
+    "description": "Amazon Web Services",
+    "date": "2020-01-08",
+    "type": "image/jpg",
+  },
+  {
+    "name": "Photo 9",
+    "url": "/images/photo_9.jpg",
+    "description": "Salesforce",
+    "date": "2020-01-09",
+    "type": "image/jpg",
+  }
+]
